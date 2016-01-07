@@ -1,11 +1,8 @@
 class MocNode:
-
-    name = ''
-    parent = ''
-    refmoc = []
-
     def __init__(self):
-        pass
+        self.name = ''
+        self.parent = ''
+        self.refmoc = []
 
     def setName(self, name):
         self.name = name
