@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<root>
+	  <orderedMocList mocType="radio" version="AG">
+	    <moc name="ADomainName"/>
+	    <moc name="ALteX2Info"/>
+	    <moc name="ADNSServer"/>
+	    <moc name="ANRAG"/>
+	    <moc name="A3GDSCP"/>
+	    <moc name="AcsIntInfo"/>
+	    <moc name="AModTokCfg"/>
+	    <moc name="ALdCtrlCfg"/>
+	    <moc name="AS1FlwCtrl"/>
+	    <moc name="AgIuFlwCtrl"/>
+	    <moc name="ALteVeNbTacCsg"/>
+	    <moc name="ALteVeNb"/>
+	    <moc name="ALteAG"/>
+	    <moc name="ALteQosSeg"/>
+	    <moc name="ALteDscp"/>
+	    <moc name="AUEGroupInfo"/>
+	    <moc name="AImsiNriMap"/>
+	    <moc name="AHnbInfo"/>
+	    <moc name="APSIpInfo"/>
+	    <moc name="ACSIpInfo"/>
+	    <moc name="ATimer"/>
+	    <moc name="A3GAG"/>
+	    <moc name="AS1TrPathCir"/>
+	    <moc name="AS1TrPath"/>
+	    <moc name="ALogicalS1Link"/>
+	    <moc name="AIupsTrPathCir"/>
+	    <moc name="AIupsTrPath"/>
+	    <moc name="ALogicalIupsLink"/>
+	    <moc name="ALogicalIupsLinkGroup"/>
+	    <moc name="AMgwTrPathCir"/>
+	    <moc name="AMgwTrPath"/>
+	    <moc name="ALogicalMgwLink"/>
+	    <moc name="ALogicalMscLink"/>
+	    <moc name="ALogicalMscLinkGroup"/>
+	    <moc name="AIpSlaExTask"/>
+	    <moc name="APlmnSpecFunction"/>
+	    <moc name="AS1Link"/>
+	    <moc name="AIupsLink"/>
+	    <moc name="AIucsLink"/>
+	    <moc name="AGFunction"/>
+	  </orderedMocList>
+	</root>
